@@ -1,0 +1,8 @@
+MIDlet-1: PPT Remote,/com/deepak/pptrclient/resources/logo_16x16.png,com.deepak.pptrclient.gui.PPTRVisualMIDlet
+MIDlet-Jar-Size: 54864
+MIDlet-Jar-URL: PPTRemote_Client.jar
+MIDlet-Name: PPTRemote_Client
+MIDlet-Vendor: deepakpk009@yahoo.in
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
